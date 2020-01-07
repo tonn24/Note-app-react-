@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 body {
   background: #eee;
@@ -12,10 +12,11 @@ body {
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #698474;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  text-align: center;
 }
 
 header h1 {
@@ -36,7 +37,7 @@ footer p {
   color: #ccc;
 }
 .note {
-  background: #fff;
+  background: #e5e4cc;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
